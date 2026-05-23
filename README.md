@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heaven-in-a-hayfield/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Heaven in a Hayfield](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heaven-in-a-hayfield/) |
+| **Get License** | [License this song: Heaven in a Hayfield](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heaven-in-a-hayfield/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I left a hundred miles of highway in my rearview
+> Because the only thing I want is to be near you
+> The moon is hanging low above the pines
+> And your gentle silhouette is on my mind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
