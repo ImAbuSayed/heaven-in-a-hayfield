@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heaven-in-a-hayfield/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Heaven in a Hayfield](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heaven-in-a-hayfield/) |
+| **Get License** | [Get a Licensing Quote for Heaven in a Hayfield](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heaven-in-a-hayfield/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d53199e1b97a1e5815754b5d2c9a9c077283af85efeb220f13b20de70e486f4a` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

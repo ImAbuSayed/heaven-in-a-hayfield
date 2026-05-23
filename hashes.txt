@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heaven in a Hayfield
+
+This log tracks the cryptographic history and versioning for the song **Heaven in a Hayfield** (heaven-in-a-hayfield).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T15:20:18.544309 | `v1` | `d53199e1b97a1e5815754b5d2c9a9c077283af85efeb220f13b20de70e486f4a` | `82e15cf020a9fc925aaafd6621e978b56c5e84ef8e16be8da59e80699a7c5fb0` | `2026-05-23_heaven-in-a-hayfield-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
